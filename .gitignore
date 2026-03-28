@@ -5,6 +5,8 @@
 
 # dotenv files
 .env
+
+# macOS files
 .DS_Store
 
 # User-specific files
