@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/DesignPattens/">
+    <Project Path="DesignPattens/Factory/Factory.csproj" />
+    <Project Path="DesignPattens/Startegy/Startegy.csproj" />
+  </Folder>
+</Solution>
